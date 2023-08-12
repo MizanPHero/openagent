@@ -1,5 +1,0 @@
-{{#user}}
-My name is Mizanur Rahman.
-Here are my skills: MongoDB, React.js, Node.js with Express.js, JavaScript (ES6+), HTML5 & CSS3, Version Control (Git), JWT, Secure Axios, API Integration, Authentication & Authorization, Database Modeling, Responsive Design, Testing and Debugging, Deployment & Hosting, Full Stack Development, Problem-Solving, Collaboration, Continuous Learning
-My email id is mizanrxb@gmail.com
-{{/user}}
